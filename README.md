@@ -1,9 +1,9 @@
 # spiel
-# Willkommen zu Mythscape: Welten der Fantasie & Abenteuer
+# Willkommen zu Mythscape: Worlds of Fantasy & Adventures
 
 ## Über dieses Repositorium
 
-Dieses Repositorium ist der zentrale Sammelpunkt für die Entwicklung und Pflege der Spielressourcen von "Mythscape: Welten der Fantasie & Abenteuer", einem innovativen Rollenspiel, das Spieler in eine Welt voller Mythen, Magie und unerforschter Landschaften eintauchen lässt. Unser Ziel ist es, eine umfassende Sammlung von Materialien bereitzustellen, die sowohl für Spieler als auch für Spielleiter (Dungeon Master) nützlich sind, einschließlich:
+Dieses Repositorium ist der zentrale Sammelpunkt für die Entwicklung und Pflege der Spielressourcen von "Mythscape: Worlds of Fantasy & Adventures", einem innovativen Rollenspiel, das Spieler in eine Welt voller Mythen, Magie und unerforschter Landschaften eintauchen lässt. Unser Ziel ist es, eine umfassende Sammlung von Materialien bereitzustellen, die sowohl für Spieler als auch für Spielleiter (Dungeon Master) nützlich sind, einschließlich:
 
 - **Spielerhandbuch**: Eine Anleitung zur Charaktererstellung, zu Fähigkeiten und zur Spielmechanik.
 - **Dungeon Master Handbuch**: Ressourcen und Leitfäden für Spielleiter, um fesselnde Abenteuer und Kampagnen zu erschaffen.
